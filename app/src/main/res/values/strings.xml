@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutDetector</string>
+    <string name="accessibility_service_label">my awesome a11y service</string>
+    <string name="accessibility_service_description">my awesome a11y service to detects views</string>
+    <string name="scroll">scroll</string>
+    <string name="draw">draw</string>
+</resources>
